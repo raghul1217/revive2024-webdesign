@@ -204,9 +204,10 @@ body{
 }
 
 #productive .row .col .card p{
-    font-size: 13px;
+    font-size: 15px;
     margin: 15px 0;
     line-height: 1.5;
+    text-align: left;
 }
 
 #productive .row .col .card .profile{
@@ -221,14 +222,15 @@ body{
 }
 
 #productive .row .col .card .profile h3{
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 700;
     color: var(--profile);
 }
 
 #productive .row .col .card .profile p{
-    font-size: 10px;
+    font-size: 13px;
     margin: 0;
+    text-align: left;
 }
 
 #quotes{
@@ -441,7 +443,7 @@ footer .row .col4 i{
         margin-left: 33px;
     }
     #productive .row h2{
-        font-size: 16px;
+        font-size: 18px;
     }
     #productive .row p{
         font-size: 15px;
